@@ -1,0 +1,121 @@
+
+body{
+text-align:center;
+
+}
+
+.navbar ul{
+  list-style-type: none;
+  background-color:#333;
+  padding: 10px;
+  margin-right:0px ;
+  margin-left: 0px;
+  border-radius:25px;
+  overflow: hidden;
+  
+}
+.navbar a{
+  color:#93bbaf;
+  margin-left: 0px;
+  margin-right:0px;
+  font-size:25px;
+  display: block;
+  text-decoration: none;
+  
+}
+
+#hf1{
+  font-color:black;
+  border-style:solid;
+  font-size:1em;
+  text-align:center;
+  border-radius:10px;
+  border-color: red;
+  background-color:#77145d;
+}
+
+#hh1:first-letter{
+  font-size: 50px;
+  font-family:Monospace;
+}
+#hh1{
+  color: white;
+  font-size:30px;
+  font-style: italic;
+  font-family: Monospace;
+  text-shadow:1px 3px 5px blue;
+
+}
+#under{
+  
+  font size:30px;
+}
+
+#text-container {
+    font-size: 15px; /* Adjust as needed */
+    white-space: nowrap; /* Prevents text from wrapping */
+    overflow: hidden; /* Hides overflowing content */
+    border-right: 2px solid black; /* Simulates cursor */
+    animation: typing 20s steps(20, end);
+}
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+    to {
+        width: 100%;
+    }
+}
+
+#footer{
+color:white;
+}
+#round1{
+  width:200px;
+  height:200px;
+  border-radius:50%;
+  position:absolute;
+  left:0;
+}
+
+.container{
+  background-color:#44f0bd;
+  border-radius: 20px;
+}
+.box{
+   border-radius: 20px;
+  border:4px solid;
+  padding:25px;
+  height: auto;
+  width: auto;
+  text-align: center;
+  max-width:100%;
+}
+
+
+#kelin{
+  text-align:center;
+}
+
+#img3{
+  border-radius:50px;
+}
+footer{
+  
+  background-color: black;
+  height:100px; 
+  font-size: 20px;
+}
+#container5{
+  height:100px;
+  width:50px;
+  border:10px solid;
+  font-size: 20px;
+  b
+}
+
+sinhala 
+
+
+tamil
